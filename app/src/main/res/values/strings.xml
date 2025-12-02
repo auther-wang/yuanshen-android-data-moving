@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="btn_check_size">检查文件夹大小</string>
+    <string name="btn_move_files">移动文件</string>
+    <string name="btn_move_back">移回文件</string>
+    <string name="txt_status">状态: 就绪</string>
+    <string name="size_calculating">正在计算文件夹大小...</string>
+    <string name="size_result">原神文件夹大小: %s</string>
+    <string name="size_exceeded">文件夹大小超过20G，可以开始移动</string>
+    <string name="size_normal">文件夹大小正常，无需移动</string>
+    <string name="moving_files">正在移动文件...</string>
+    <string name="move_completed">文件移动完成</string>
+    <string name="move_failed">文件移动失败</string>
+    <string name="moving_back">正在移回文件...</string>
+    <string name="move_back_completed">文件移回完成</string>
+    <string name="move_back_failed">文件移回失败</string>
+    <string name="no_log_found">未找到移动日志</string>
+    <string name="server_official">当前数据服务器: 官服</string>
+    <string name="server_bilibili">当前数据服务器: B服</string>
+    <string name="btn_move_to_bilibili">从官服移动到B服</string>
+    <string name="btn_move_to_official">从B服移动到官服</string>
+</resources>
